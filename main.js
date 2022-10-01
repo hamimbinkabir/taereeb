@@ -44,7 +44,7 @@ arabic.set('y' , "ي"); arabic.set('Y' , "ى");
 arabic.set('z' , "ز"); arabic.set('Z' , "ذ");
 arabic.set('?' , "؟"); arabic.set(',' , "،");
 arabic.set(';' , ":"); arabic.set("'" , '"');
-arabic.set('-' , "ـ"); arabic.set('_' , "-");
+arabic.set('-' , "ـ"); arabic.set("_" , '-');
 
 
 
