@@ -63,9 +63,12 @@ body {
 }
 
 .slash_key {
-    width: 90px;
+    width: 80px;
 }
-
+.semi_colon {
+    width: 10px;
+    font-size: 10px;
+}
 .caps_lock_key {
     width: 128px;
     font-size: 15px;
