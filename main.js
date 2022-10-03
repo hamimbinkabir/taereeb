@@ -43,7 +43,7 @@ arabic.set('x' , "ث"); arabic.set('X' , "ة");
 arabic.set('y' , "ي"); arabic.set('Y' , "ى");
 arabic.set('z' , "ز"); arabic.set('Z' , "ذ");
 arabic.set('?' , "؟"); arabic.set(',' , "،");
-arabic.set(';' , "؛"); arabic.set('_' , "-");
+arabic.set(';' , "؛"); arabic.set('_' , "ـ");
 
 
 
