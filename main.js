@@ -206,10 +206,6 @@ function mouseUp(key) {
 }
 
 
-function Translate(){
-  let term = document.getElementById('TextInput').value;
-  window.open('https://translate.google.com/?sl=ar&tl=en&text='+ term);
-}// end of function
 
 
 function CopyToClipboard(){
@@ -220,11 +216,41 @@ function CopyToClipboard(){
 }// end of function
 
 
+
+function Translate(){
+  let term = document.getElementById('TextInput').value;
+  window.open('https://translate.google.com/?sl=ar&tl=en&text='+ term);
+}// end of function
+
+
+function Maps(){
+  let term = document.getElementById('TextInput').value;
+  window.open('https://www.google.com/maps/search/'+ term);
+}// end of function
+
+
 function Youtube(){
   let term = document.getElementById('TextInput').value;
   window.open('https://www.youtube.com/results?search_query='+ term);
 }// end of function
 
+
+function Wikipedia(){
+  let term = document.getElementById('TextInput').value;
+  window.open('https://en.wikipedia.org/wiki/'+ term);
+}// end of function
+
+
+function Find(){
+  let term = document.getElementById('TextInput').value;
+  window.open('https://cse.google.com/cse?cx=012744225112026497653:jobr5lexrmf&q='+ term);
+}// end of function
+
+
+function Quran(){
+  let term = document.getElementById('TextInput').value;
+  window.open('https://quran.com/search?page=1&q='+ term);
+}// end of function
 
 
 
