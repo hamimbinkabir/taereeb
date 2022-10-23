@@ -48,8 +48,7 @@ arabic.set('l1' , "؛"); arabic.set('L1' , ":");
 arabic.set('l2' , `'`); arabic.set('L2' , `"`);
 arabic.set('p1' , "["); arabic.set('P1' , "}");
 arabic.set('p2' , "]"); arabic.set('P2' , "{");
-arabic.set('p3' , "\"); 
-arabic.set('P3' , "|");
+arabic.set('pm' , "\"); arabic.set('PM' , "|");
 
 
 
