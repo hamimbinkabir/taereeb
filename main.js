@@ -42,15 +42,14 @@ arabic.set('w' , "و"); arabic.set('W' , "ؤ");
 arabic.set('x' , "ث"); arabic.set('X' , "ة");
 arabic.set('y' , "ي"); arabic.set('Y' , "ى");
 arabic.set('z' , "ز"); arabic.set('Z' , "ذ");
-arabic.set('.' , "."); arabic.set(',' , "،");
+arabic.set(',' , "،");
 arabic.set('_' , "ـ"); arabic.set('?' , "؟");
 arabic.set('l1' , "؛"); arabic.set('L1' , ":");
 arabic.set('l2' , `'`); arabic.set('L2' , `"`);
 arabic.set('p1' , "["); arabic.set('P1' , "}");
 arabic.set('p2' , "]"); arabic.set('P2' , "{");
-arabic.set('p3' , "\"); arabic.set('P3' , "|");
-
-
+arabic.set('p3' , "\"); 
+arabic.set('P3' , "|");
 
 
 
